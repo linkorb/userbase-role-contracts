@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "symfony/security-core": "^5.0 || ^6.4 || ^7.2"
+        "symfony/security-core": "^5.0 || ^6.4 || ^7.2 || ^8.0"
     },
     "suggest": {
         "linkorb/userbase-role-provider-bundle": ""
